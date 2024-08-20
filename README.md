@@ -1,3 +1,6 @@
+// index - index-CpqVgLPZ.js + index-CdM7rXKV.js
+// vendor - vendor-BGWoXjPo.js + vendor-BGWoXjPo.js
+
 # Opanuj Frontend: AI Edition - Frontend Bootstrap
 
 ![](./_resources/img/header.png)
